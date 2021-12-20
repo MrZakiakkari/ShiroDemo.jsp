@@ -18,3 +18,5 @@ In order to run this example, you will need to have the following software insta
 
  To run this install the sql file [shiro-example.mysql.sql](./assets/shiro-example.mysql.sql).
 
+
+NOTE: in [shiro.ini](./src/main/webapp/WEB-INF/shiro.ini) on line 10 you must adjust "ds.password = INSERT_PASSWORD" for your system's setup
