@@ -1,5 +1,6 @@
 # Shiro Demo
 
+Project does not work with MySQL databsae.  Need help.  
 This is a demo of the Shiro framework. 
 
 ## Requirements
