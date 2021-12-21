@@ -44,7 +44,7 @@
 		<shiro:user>
 			You are already logged in
 			<br>Visit the secret content<a href="secret/index.jsp"> here    </a>
-			<br><a href="/Shiro_Demo/logout">Logout</a>
+			<br><a href="/ShiroDemo.jsp/logout">Logout</a>
 		</shiro:user>
     </body>
 </html>

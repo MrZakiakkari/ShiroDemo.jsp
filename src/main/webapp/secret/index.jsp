@@ -10,8 +10,8 @@
         Hello <shiro:principal/>
         <h3>This is secret content</h3>
         <br>
-        <h3>It should be visible to authenticated users only</h3> 
+        <h3>It should be visible to authenticated users only</h3>
         <br>
-       <a href="/Shiro_Demo/logout">Log Out</a>
+		<a href="/ShiroDemo.jsp/logout">Log Out</a>
     </body>
 </html>
